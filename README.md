@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## How To Run
 From the project root:
 ```
-python main.py
+python engine.py
 ```
 
 ## Roadmap
